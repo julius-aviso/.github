@@ -2,7 +2,7 @@
 <p><strong>Contributor</strong> | <time datetime="2025-04-09">Abril 9, 2025</time></p>
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/7f/b4/7e7fb4be-1269-9c2f-9c51-da0ae98c9401/mza_2705960989189570683.jpg/1200x1200bf-60.jpg"
   alt="bypass AI detectors with julius"
-  width="950"
+  width="750"
   height="450"
 />
 
