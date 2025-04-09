@@ -12,7 +12,7 @@
 
 <p>Julius es una plataforma innovadora que ha logrado posicionarse con firmeza en el ámbito financiero digital. Una de sus ventajas clave reside en la interfaz intuitiva y moderna, la cual facilita la navegación incluso para usuarios principiantes. La claridad en las opciones de inversión demuestra que la plataforma prioriza la accesibilidad, lo que agiliza los procesos y evita errores comunes.</p>
 
-<a target="_blank" href="https://julius.ai?via=new">Click here to have free access !</a>
+<a target="_blank" href="https://julius.ai?via=new">Haga clic aquí para tener acceso gratuito!</a>
 
 <p>Además, Julius destaca frente a los competidores por su transparencia sobre los costos. La plataforma aplica tarifas competitivas que en promedio resultan un 20% más bajas que la media del sector, beneficiando especialmente a aquellos usuarios que realizan operaciones frecuentes.</p>
 
